@@ -9,7 +9,7 @@ let progressWitdh = 0;
 
 function incrementValue() {
     if (circleNum < 4) {
-        circleNum ++;
+        circleNum++;
     } 
     if (circleNum === 4) {
         nextBtn.disabled = true;
