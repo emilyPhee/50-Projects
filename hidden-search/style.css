@@ -16,7 +16,7 @@ body {
 }
 
 .search {
-  position: relative; /* we can position things inside as absolute */
+  position: relative; /* we can position things inside as absolute items are inside of this div */
   height: 50px;
 }
 
